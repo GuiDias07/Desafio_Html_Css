@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    box-sizing: border-box;
+    border: 0;
+    padding: 0;
+}
+
+nav{
+    width: 15%;
+    height: 100vh;
+    border-right: 1px solid black;
+}
+li {
+    width: 100%;
+    height: auto;
+    margin: 5px 20px 5px 20px ;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
